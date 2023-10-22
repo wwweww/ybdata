@@ -13,12 +13,12 @@ var DBCfg DBConfig
 
 func init() {
 	DBCfg = DBConfig{
-		host:     "localhost",
-		port:     "3306",
-		database: "yb_stdata",
-		username: "root",
-		password: "hzkjzyjsxy",
-		charset:  "utf8mb4",
+		host:     "",
+		port:     "",
+		database: "",
+		username: "",
+		password: "",
+		charset:  "",
 	}
 }
 
