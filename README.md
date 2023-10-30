@@ -19,7 +19,7 @@ Content-Type: application/json
 
 ###
 
-POST http://yb.zjhzcc.edu.cn/ybdata/search/class HTTP/1.1
+POST http://localhost:8080/ybdata/search/class HTTP/1.1
 Content-Type: application/json
 
 {
